@@ -1,0 +1,11 @@
+{
+    "name": "filipe/cursos",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "config/settings.php"
+        ]
+    }
+}
